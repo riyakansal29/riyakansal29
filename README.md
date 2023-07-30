@@ -12,9 +12,7 @@
 
 ![](https://komarev.com/ghpvc/?username=riyakansal29&color=blue&label=Profile+Views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal29&layout=compact&theme=tokyonight)](https://github.com/riyakansal29/github-readme-stats)<img src="https://github-readme-stats.vercel.app/api?username=riyakansal29&count_private=true&theme=tokyonight&hide=stars" align="left" alt="Riya Kansal">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyakansal29&theme=highcontrast)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riyakansal29&theme=highcontrast)](https://git.io/streak-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyakansal29&layout=compact&theme=tokyonight)](https://github.com/riyakansal29/github-readme-stats)                     
 
 
 
